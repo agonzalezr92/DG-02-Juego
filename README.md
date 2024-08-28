@@ -1,4 +1,5 @@
-Juego de Personajes - Batalla contra el Orco
+## Juego de Personajes - Batalla contra el Orco
+
 Desafío evaluado: Estructuras de datos y funciones
 Descripción del proyecto
 
